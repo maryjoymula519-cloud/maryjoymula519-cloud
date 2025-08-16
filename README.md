@@ -1,4 +1,4 @@
-506616875_1933659117382611_293939344000661871_n.jpg## Hi there 👋
+Hi there 👋
 
 [
 ](**maryjoymula519-cloud/maryjoymula519-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
