@@ -1,8 +1,6 @@
 Hi there 👋
 
 ![](https://github.com/maryjoymula519-cloud/maryjoymula519-cloud/blob/15102ca085d1a309d88399d3be6058a117d06bb4/506616875_1933659117382611_293939344000661871_n.jpg)
-make 2x2 size
-(**maryjoymula519-cloud/maryjoymula519-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
