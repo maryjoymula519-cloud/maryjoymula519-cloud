@@ -1,9 +1,8 @@
-![Design and Development][
-](https://github.com/maryjoymula519-cloud/maryjoymula519-cloud/blob/main/506616875_1933659117382611_293939344000661871_n.jpg)
+
 ## Hi there 👋
 
 [
-](https://github.com/maryjoymula519-cloud/maryjoymula519-cloud/commit/472c7a5e118b8fa6710641d43f1b7b07a249ad79)**maryjoymula519-cloud/maryjoymula519-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+](**maryjoymula519-cloud/maryjoymula519-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
