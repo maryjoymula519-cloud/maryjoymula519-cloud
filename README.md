@@ -1,6 +1,7 @@
 Hi there 👋 
-
-![](https://github.com/maryjoymula519-cloud/maryjoymula519-cloud/blob/15102ca085d1a309d88399d3be6058a117d06bb4/506616875_1933659117382611_293939344000661871_n.jpg)
+Hi, I'm MARY JOY J. MULA , and I'm currently a BSIT student. I'm passionate about technology and how it can be used to solve real-world problems. 
+I enjoy learning about programming, networking, and system development, and I'm always eager to improve my skills and take on new challenges. 
+My goal is to become a skilled IT professional who can contribute to innovative tech solutions in the future.![](https://github.com/maryjoymula519-cloud/maryjoymula519-cloud/blob/15102ca085d1a309d88399d3be6058a117d06bb4/506616875_1933659117382611_293939344000661871_n.jpg)
 
 Here are some ideas to get you started:
 
